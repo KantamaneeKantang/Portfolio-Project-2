@@ -11,9 +11,9 @@ We are going to analyze World Happiness Report 2023 data collected. The dataset 
 - Importing and Exploring Data
 - Data Wrangling (Dealing with Duplicates, Missing values)
 - Exploratory Data analysis
-  What is the average amount of ladder score by countries?
+  \What is the average amount of ladder score by countries?
 - Visualization the question:
-  Which country owns the highest happiness score and the top 10 ranking?
+  \Which country owns the highest happiness score and the top 10 ranking?
   Which country owns the least happinesss score and the last 10 ranking?
   What is the effect between Perceptions of corruption and Freedom to make life choices?
   Comparison of Log GDP per capita and Healthy life expectancy at birth?
