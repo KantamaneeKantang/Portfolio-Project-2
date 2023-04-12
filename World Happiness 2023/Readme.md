@@ -12,17 +12,17 @@ We are going to analyze World Happiness Report 2023 data collected. The dataset 
 - Data Wrangling (Dealing with Duplicates, Missing values)
 - Exploratory Data analysis</br>
   What is the average amount of ladder score by countries?
-- Visualization the question:
-  Which country owns the highest happiness score and the top 10 ranking?
-  Which country owns the least happinesss score and the last 10 ranking?
-  What is the effect between Perceptions of corruption and Freedom to make life choices?
-  Comparison of Log GDP per capita and Healthy life expectancy at birth?
+- Visualization the question:</br>
+  Which country owns the highest happiness score and the top 10 ranking?</br>
+  Which country owns the least happinesss score and the last 10 ranking?</br>
+  What is the effect between Perceptions of corruption and Freedom to make life choices?</br>
+  Comparison of Log GDP per capita and Healthy life expectancy at birth?</br>
   Creating a dashboard in Tableau
   
 ### Document 2: Model Evaluation
-- Exploratory Data analysis
+- Exploratory Data analysis</br>
   What is the high correlation with life ladder(happiness score)?
-- Model Development
+- Model Development</br>
   What Regression model is suit to predicting the life lader?
-- Model Evaluation and Refinement
+- Model Evaluation and Refinement</br>
   How to make a prediction on new data?
