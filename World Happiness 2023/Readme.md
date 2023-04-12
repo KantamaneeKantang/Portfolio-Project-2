@@ -26,3 +26,6 @@ We are going to analyze World Happiness Report 2023 data collected. The dataset 
   What Regression model is suit to predicting the life lader?
 - Model Evaluation and Refinement</br>
   How to make a prediction on new data?
+  
+ ### Tableau's dashbroad
+ - Link here : https://public.tableau.com/app/profile/kantamanee.kantang/viz/WorldHappiness2023_16812792358710/Dashboard1
