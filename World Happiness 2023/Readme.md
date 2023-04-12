@@ -2,7 +2,7 @@
 
 The World Happiness Report is a publication of the Sustainable Development Solutions Network, powered by the Gallup World Poll data, released a dataset of World Happiness Report 2023. This dataset contains a selection of diferrent countries for each state effectiveness, for the years 2008 - 2022.
 
-A detailed description of the dataset can be found on World Happiness's website using Data for Table 2.1 as main and Data for Figure 2.1 for support.
+A detailed description of the dataset can be found on [World Happiness's website](https://worldhappiness.report/ed/2023/) using Data for Table 2.1 as main and Data for Figure 2.1 for support.
 
 ## Objective
 We are going to analyze World Happiness Report 2023 data collected. The dataset contains information about the amount of countries across several categories. The document is devided into 2 parts as following:
