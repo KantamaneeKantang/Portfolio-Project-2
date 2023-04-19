@@ -7,3 +7,5 @@ and compare some data with the electricity accessing dataset.
 A detailed description of the dataset of energy can be found on 
 [Our World in data's website](https://ourworldindata.org/energy), and [electricity accessing](https://ourworldindata.org/number-without-electricity), 
 but to summarize, the dataset has the variables following file named code book.xlsx.
+
+The project is explored by SQL and then visualized by a dashboard in Power BI
